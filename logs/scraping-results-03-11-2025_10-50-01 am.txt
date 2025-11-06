@@ -1,0 +1,22 @@
+HORSE RACING SCRAPING RESULTS LOG
+======================================================================
+Timestamp: 2025-11-03T02:50:01.574Z
+Total Racetracks: 1
+Total Races Scraped: 1
+======================================================================
+
+
+[1] RACETRACK: Ballarat
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/ballarat
+Total Races: 1
+
+  R1. Result: 3,2,7 | Horses: 5
+     Link: /horse-racing/australia-nz/ballarat/race-1-9793307
+     Horses:
+       - [1] #2 Regal Gent (Place: 1.10)
+       - [2] #3 Catalona (Place: 2.10)
+       - [3] #4 Faith In Zadar (Place: 3.30)
+       - [4] #7 Kamarooka (Place: 2.90)
+       - [5] #8 Motherduck (Place: 2.60)
+

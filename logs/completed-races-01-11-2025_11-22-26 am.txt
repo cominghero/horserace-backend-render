@@ -1,0 +1,160 @@
+COMPLETED RACES LOG
+================================================================================
+Timestamp: 2025-11-01T03:22:26.247Z
+Total Racetracks: 11
+================================================================================
+
+Total Races: 25
+
+
+[1] RACETRACK: Flemington
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/flemington
+Total Races: 3
+
+  R1. Result: 9,5,6
+     Link: /horse-racing/australia-nz/flemington/race-1-9785667
+
+  R2. Result: 4,9,1
+     Link: /horse-racing/australia-nz/flemington/race-2-9785670
+
+  R3. Result: 5,9,2
+     Link: /horse-racing/australia-nz/flemington/race-3-9785669
+
+
+[2] RACETRACK: Randwick
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/randwick
+Total Races: 3
+
+  R1. Result: 3,4,1
+     Link: /horse-racing/australia-nz/randwick/race-1-9785602
+
+  R2. Result: 9,8,10
+     Link: /horse-racing/australia-nz/randwick/race-3-9785600
+
+  R3. Result: 9,1,20
+     Link: /horse-racing/australia-nz/randwick/race-4-9785597
+
+
+[3] RACETRACK: Eagle Farm
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/eagle-farm
+Total Races: 3
+
+  R1. Result: 1,5,7
+     Link: /horse-racing/australia-nz/eagle-farm/race-1-9785883
+
+  R2. Result: 5,6,4
+     Link: /horse-racing/australia-nz/eagle-farm/race-2-9785880
+
+  R3. Result: 10,6,4
+     Link: /horse-racing/australia-nz/eagle-farm/race-3-9785884
+
+
+[4] RACETRACK: Morphettville
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/morphettville
+Total Races: 4
+
+  R1. Result: 4,1,2
+     Link: /horse-racing/australia-nz/morphettville/race-1-9785524
+
+  R2. Result: 7,6,2
+     Link: /horse-racing/australia-nz/morphettville/race-2-9785526
+
+  R3. Result: 4,3,8
+     Link: /horse-racing/australia-nz/morphettville/race-3-9785523
+
+  R4. Result: 9,4,7
+     Link: /horse-racing/australia-nz/morphettville/race-4-9785522
+
+
+[5] RACETRACK: Mortlake
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/mortlake
+Total Races: 2
+
+  R1. Result: 2,1,5
+     Link: /horse-racing/australia-nz/mortlake/race-1-9789476
+
+  R2. Result: 8,2,1
+     Link: /horse-racing/australia-nz/mortlake/race-2-9789477
+
+
+[6] RACETRACK: Traralgon
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/traralgon
+Total Races: 2
+
+  R1. Result: 4,9,10
+     Link: /horse-racing/australia-nz/traralgon/race-1-9789359
+
+  R2. Result: 10,2,8
+     Link: /horse-racing/australia-nz/traralgon/race-2-9789360
+
+
+[7] RACETRACK: Newcastle
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/newcastle
+Total Races: 1
+
+  R1. Result: 5,1,4
+     Link: /horse-racing/australia-nz/newcastle/race-1-9789517
+
+
+[8] RACETRACK: Dubbo
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/dubbo
+Total Races: 1
+
+  R1. Result: 3,4,2
+     Link: /horse-racing/australia-nz/dubbo/race-1-9789440
+
+
+[9] RACETRACK: Coffs Harbour
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/coffs-harbour
+Total Races: 1
+
+  R1. Result: 3,2,1
+     Link: /horse-racing/australia-nz/coffs-harbour/race-1-9789303
+
+
+[10] RACETRACK: Gold Coast
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/gold-coast
+Total Races: 3
+
+  R1. Result: 8,2,12
+     Link: /horse-racing/australia-nz/gold-coast/race-1-9789483
+
+  R2. Result: 9,13,2
+     Link: /horse-racing/australia-nz/gold-coast/race-2-9789486
+
+  R3. Result: 14,12,2
+     Link: /horse-racing/australia-nz/gold-coast/race-3-9789487
+
+
+[11] RACETRACK: Wycheproof
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/wycheproof
+Total Races: 2
+
+  R1. Result: 3,1,8
+     Link: /horse-racing/australia-nz/wycheproof/race-1-9789594
+
+  R2. Result: 2,4,1
+     Link: /horse-racing/australia-nz/wycheproof/race-2-9789593
+

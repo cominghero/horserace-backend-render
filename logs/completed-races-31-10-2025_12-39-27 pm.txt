@@ -1,0 +1,72 @@
+COMPLETED RACES LOG
+================================================================================
+Timestamp: 2025-10-31T04:39:27.700Z
+Total Racetracks: 4
+================================================================================
+
+Total Races: 12
+
+
+[1] RACETRACK: Kilmore
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/kilmore
+Total Races: 3
+
+  R1. Result: 6,1,5
+     Link: /horse-racing/australia-nz/kilmore/race-1-9785639
+
+  R2. Result: 2,1,8
+     Link: /horse-racing/australia-nz/kilmore/race-2-9785641
+
+  R3. Result: 3,9,6
+     Link: /horse-racing/australia-nz/kilmore/race-3-9785635
+
+
+[2] RACETRACK: Wagga
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/wagga
+Total Races: 4
+
+  R1. Result: 2,4,7
+     Link: /horse-racing/australia-nz/wagga/race-1-9785444
+
+  R2. Result: 5,3,1
+     Link: /horse-racing/australia-nz/wagga/race-2-9785443
+
+  R3. Result: 9,4,10
+     Link: /horse-racing/australia-nz/wagga/race-3-9785438
+
+  R4. Result: 5,11,9
+     Link: /horse-racing/australia-nz/wagga/race-4-9785440
+
+
+[3] RACETRACK: Moree
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/moree
+Total Races: 3
+
+  R1. Result: 2,3,5
+     Link: /horse-racing/australia-nz/moree/race-1-9785467
+
+  R2. Result: 3,5,7
+     Link: /horse-racing/australia-nz/moree/race-2-9785461
+
+  R3. Result: 2,4,7
+     Link: /horse-racing/australia-nz/moree/race-3-9785462
+
+
+[4] RACETRACK: Ipswich
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/ipswich
+Total Races: 2
+
+  R1. Result: 4,5,3
+     Link: /horse-racing/australia-nz/ipswich/race-1-9785631
+
+  R2. Result: 1,4,6
+     Link: /horse-racing/australia-nz/ipswich/race-2-9785633
+

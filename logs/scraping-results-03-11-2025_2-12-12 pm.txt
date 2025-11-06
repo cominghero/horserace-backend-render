@@ -1,0 +1,268 @@
+HORSE RACING SCRAPING RESULTS LOG
+======================================================================
+Timestamp: 2025-11-03T06:12:12.226Z
+Total Racetracks: 4
+Total Races Scraped: 21
+======================================================================
+
+
+[1] RACETRACK: Ballarat
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/ballarat/race-1-9793307
+Total Races: 7
+
+  R1. Result: 3,2,7 | Horses: 5
+     Link: /horse-racing/australia-nz/ballarat/race-1-9793307
+     Horses:
+       - [1] #2 Regal Gent (Place: 1.10)
+       - [2] #3 Catalona (Place: 2.10)
+       - [3] #4 Faith In Zadar (Place: 3.30)
+       - [4] #7 Kamarooka (Place: 2.90)
+       - [5] #8 Motherduck (Place: 2.60)
+
+  R2. Result: 5,3,11 | Horses: 9
+     Link: /horse-racing/australia-nz/ballarat/race-2-9793308
+     Horses:
+       - [1] #1 Conjurer (Place: 11.25)
+       - [2] #2 Lyttelton (Place: 3.75)
+       - [3] #3 Nothin' Wong Here (Place: 1.10)
+       - [4] #4 Bush Etiquette (Place: 2.63)
+       - [5] #5 Divine Clementine (Place: 1.30)
+       - [6] #6 Don't Look Away (Place: 3.10)
+       - [7] #8 Kazza Joy (Place: 2.80)
+       - [8] #9 Streamelot (Place: 5.00)
+       - [9] #11 Valda Warrior (Place: 3.00)
+
+  R3. Result: 13,10,7 | Horses: 7
+     Link: /horse-racing/australia-nz/ballarat/race-3-9793309
+     Horses:
+       - [1] #1 Highfalutin (Place: 9.00)
+       - [2] #2 Nic The Cash (Place: 1.70)
+       - [3] #7 Last Piece (Place: 36.00)
+       - [4] #8 Leica Bella (Place: 13.50)
+       - [5] #10 Where's My Sock (Place: 1.62)
+       - [6] #12 Don't Doubt Dottie (Place: 2.80)
+       - [7] #13 Pacific Glamour (Place: 1.40)
+
+  R4. Result: 6,17,10 | Horses: 7
+     Link: /horse-racing/australia-nz/ballarat/race-4-9793312
+     Horses:
+       - [1] #2 Egerton Reef (Place: 2.60)
+       - [2] #6 Royal Flare (Place: 1.30)
+       - [3] #8 Done My Job (Place: 2.90)
+       - [4] #9 Lil Orlov (Place: 1.40)
+       - [5] #10 Pasadena (Place: 1.55)
+       - [6] #17 Cooly (Place: 1.55)
+       - [7] #18 Star Of Ravenna (Place: 6.50)
+
+  R5. Result: 12,9,5 | Horses: 6
+     Link: /horse-racing/australia-nz/ballarat/race-5-9793310
+     Horses:
+       - [1] #5 Sub Gauge (Place: 1.24)
+       - [2] #9 Tipsy Gypsy (Place: 1.90)
+       - [3] #10 Mini Angel (Place: 1.35)
+       - [4] #12 Game Plan (Place: 1.40)
+       - [5] #15 Soobooma (Place: 2.50)
+       - [6] #16 Zamora (Place: 2.40)
+
+  R6. Result: 1,14,13 | Horses: 0
+     Link: /horse-racing/australia-nz/ballarat/race-6-9793314
+
+  R7. Result: 10,15,8 | Horses: 7
+     Link: /horse-racing/australia-nz/ballarat/race-7-9793313
+     Horses:
+       - [1] #1 Eskimo (Place: 4.00)
+       - [2] #5 Maxxi Bon (Place: 1.75)
+       - [3] #6 Verifier (Place: 3.40)
+       - [4] #8 Albanian I Am (Place: 1.50)
+       - [5] #10 Jackand (Place: 2.40)
+       - [6] #15 Nile Crocodile (Place: 5.25)
+       - [7] #16 Way Up High (Place: 5.75)
+
+
+[2] RACETRACK: Ballina
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/ballina
+Total Races: 6
+
+  R1. Result: 5,6,8 | Horses: 7
+     Link: /horse-racing/australia-nz/ballina/race-1-9789383
+     Horses:
+       - [1] #1 Catch The Prize (Place: 4.40)
+       - [2] #3 Bucket List (Place: 1.45)
+       - [3] #4 General Gordon (Place: 2.20)
+       - [4] #5 Prestige Gundy (Place: 1.26)
+       - [5] #6 Stratton (Place: 6.00)
+       - [6] #7 Highland Harmony (Place: 51.00)
+       - [7] #8 Pressipitating (Place: 4.20)
+
+  R2. Result: 3,4,9 | Horses: 5
+     Link: /horse-racing/australia-nz/ballina/race-2-9789379
+     Horses:
+       - [1] #2 Spicy Wings (Place: 1.65)
+       - [2] #3 Zanjeer (Place: 1.70)
+       - [3] #4 Permission Granted (Place: 1.55)
+       - [4] #8 Choceclair (Place: 9.50)
+       - [5] #9 Darling Take Care (Place: 2.10)
+
+  R3. Result: 5,4,2 | Horses: 5
+     Link: /horse-racing/australia-nz/ballina/race-3-9789381
+     Horses:
+       - [1] #1 Cool Fizz (Place: 1.65)
+       - [2] #2 Bellzen (Place: 2.50)
+       - [3] #4 Kirra's Sister (Place: 1.70)
+       - [4] #5 Back On De Quo (Place: 1.70)
+       - [5] #8 Hare Street (Place: 4.20)
+
+  R4. Result: 2,6,8 | Horses: 5
+     Link: /horse-racing/australia-nz/ballina/race-4-9789376
+     Horses:
+       - [1] #2 Pantelone (Place: 1.45)
+       - [2] #3 Bean Foggy (Place: 2.80)
+       - [3] #6 Written Fame (Place: 1.09)
+       - [4] #7 Gobbled (Place: 5.00)
+       - [5] #8 Sarsen (Place: 3.70)
+
+  R5. Result: 6,8,1 | Horses: 7
+     Link: /horse-racing/australia-nz/ballina/race-5-9789382
+     Horses:
+       - [1] #1 Chicago King (Place: 1.95)
+       - [2] #3 Here's Mason (Place: 21.00)
+       - [3] #5 Steplika Lion (Place: 21.00)
+       - [4] #6 Inquisitor (Place: 1.24)
+       - [5] #7 Strenuous (Place: 4.60)
+       - [6] #8 Caramelfudgesundae (Place: 3.60)
+       - [7] #10 Taga Smile (Place: 1.45)
+
+  R6. Result: 3,8,12 | Horses: 0
+     Link: /horse-racing/australia-nz/ballina/race-6-9789377
+
+
+[3] RACETRACK: Rockhampton
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/rockhampton/race-1-9793215
+Total Races: 5
+
+  R1. Result: 4,6,2 | Horses: 6
+     Link: /horse-racing/australia-nz/rockhampton/race-1-9793215
+     Horses:
+       - [1] #1 Dulcet (Place: 9.00)
+       - [2] #2 One Thing Counts (Place: 1.70)
+       - [3] #3 Out Of Luck (Place: 1.25)
+       - [4] #4 Darling Clementine (Place: 1.95)
+       - [5] #6 Phantom Flight (Place: 5.50)
+       - [6] #7 Peaking Tom (Place: 3.75)
+
+  R2. Result: 6,3,8 | Horses: 7
+     Link: /horse-racing/australia-nz/rockhampton/race-2-9793216
+     Horses:
+       - [1] #2 Be Bob Aloola (Place: 2.10)
+       - [2] #3 Anna Chatabox (Place: 3.60)
+       - [3] #4 Fillydelphia Miss (Place: 2.50)
+       - [4] #5 Chantilly Queen (Place: 25.00)
+       - [5] #6 The Kobay Train (Place: 1.30)
+       - [6] #8 Picnic Blanket (Place: 3.60)
+       - [7] #9 Louis Auguste (Place: 3.75)
+
+  R3. Result: 6,1,2 | Horses: 8
+     Link: /horse-racing/australia-nz/rockhampton/race-3-9793217
+     Horses:
+       - [1] #1 August Joe (Place: 3.60)
+       - [2] #2 Bitter Spirit (Place: 1.30)
+       - [3] #3 Bonewood (Place: 1.17)
+       - [4] #4 Heroic Talent (Place: 7.50)
+       - [5] #5 Marrero (Place: 4.50)
+       - [6] #6 Old Gold (Place: 1.30)
+       - [7] #9 Cascia (Place: 5.75)
+       - [8] #10 Madam Magpie (Place: 2.38)
+
+  R4. Result: 7,9,5 | Horses: 7
+     Link: /horse-racing/australia-nz/rockhampton/race-4-9793213
+     Horses:
+       - [1] #1 I Say Boom (Place: 2.40)
+       - [2] #2 Iconic Prince (Place: 2.60)
+       - [3] #4 Citiroc (Place: 3.00)
+       - [4] #5 Hot Summer (Place: 3.75)
+       - [5] #7 Native Bee (Place: 2.80)
+       - [6] #8 Grumpywantsatissue (Place: 2.40)
+       - [7] #9 Roy's Road (Place: 2.63)
+
+  R5. Result: 3,1,4 | Horses: 7
+     Link: /horse-racing/australia-nz/rockhampton/race-5-9793214
+     Horses:
+       - [1] #1 Woodstock Rock (Place: 1.28)
+       - [2] #3 Tizso Fab (Place: 2.00)
+       - [3] #4 Outwitted (Place: 1.55)
+       - [4] #5 Demon Delivera (Place: 4.00)
+       - [5] #6 Fifty Five Mustang (Place: 4.00)
+       - [6] #8 Outta Control (Place: 7.00)
+       - [7] #9 Spellmaster (Place: 15.00)
+
+
+[4] RACETRACK: Corowa
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/corowa
+Total Races: 5
+
+  R1. Result: 6,8,3 | Horses: 7
+     Link: /horse-racing/australia-nz/corowa/race-1-9789296
+     Horses:
+       - [1] #1 Commanding Shadow (Place: 4.33)
+       - [2] #2 Heart Balm (Place: 23.75)
+       - [3] #3 Launch Mode (Place: 2.30)
+       - [4] #4 The Sweeney (Place: 9.00)
+       - [5] #6 Neeson (Place: 1.05)
+       - [6] #7 Instigate (Place: 4.75)
+       - [7] #8 My Inspiration (Place: 2.10)
+
+  R2. Result: 5,2,4 | Horses: 9
+     Link: /horse-racing/australia-nz/corowa/race-2-9789297
+     Horses:
+       - [1] #1 Highland Lad (Place: 2.60)
+       - [2] #2 Black Frost (Place: 2.10)
+       - [3] #3 Cayman Island (Place: 1.50)
+       - [4] #4 Tallingas Petey (Place: 1.80)
+       - [5] #5 Burning Sensation (Place: 11.00)
+       - [6] #7 If You Can (Place: 2.45)
+       - [7] #8 Lull Us Away (Place: 2.90)
+       - [8] #9 Meka Vibe (Place: 2.05)
+       - [9] #10 Si Si Sir (Place: 3.80)
+
+  R3. Result: 2,1,3 | Horses: 10
+     Link: /horse-racing/australia-nz/corowa/race-3-9789292
+     Horses:
+       - [1] #1 Rentessis (Place: 1.08)
+       - [2] #2 Hellberg (Place: 1.55)
+       - [3] #3 Desert Opal (Place: 2.50)
+       - [4] #4 National Asset (Place: 10.00)
+       - [5] #5 Canny Defense (Place: 3.10)
+       - [6] #7 Snatched (Place: 3.90)
+       - [7] #8 Colombiano (Place: 1.85)
+       - [8] #9 Regina's Girl (Place: 12.00)
+       - [9] #10 Showrata (Place: 3.50)
+       - [10] #11 Theo Five (Place: 4.80)
+
+  R4. Result: 8,5,2 | Horses: 10
+     Link: /horse-racing/australia-nz/corowa/race-4-9789293
+     Horses:
+       - [1] #1 Air Control (Place: 3.60)
+       - [2] #2 Forte Cheval (Place: 2.35)
+       - [3] #3 Induction (Place: 2.10)
+       - [4] #5 Mo Cent (Place: 4.60)
+       - [5] #7 Lord Limerick (Place: 1.50)
+       - [6] #8 Calais Bliss (Place: 1.50)
+       - [7] #9 Eyewhykaywhykay (Place: 3.20)
+       - [8] #11 Showtime Kistena (Place: 2.25)
+       - [9] #12 Solar Speed (Place: 8.00)
+       - [10] #15 Bigaura (Place: 14.00)
+
+  R5. Result: 1,7,6 | Horses: 6
+     Link: /horse-racing/australia-nz/corowa/race-5-9789294
+     Horses:
+       - [1] #1 You're Two Vain (Place: 1.20)
+       - [2] #5 Over Yonder (Place: 3.60)
+       - [3] #6 Baggage Handler (Place: 2.20)
+       - [4] #7 Taluk (Place: 2.40)
+       - [5] #8 Bridie's Luck (Place: 2.75)
+       - [6] #9 Belmasai (Place: 10.00)
+

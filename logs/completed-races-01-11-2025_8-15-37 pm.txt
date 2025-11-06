@@ -1,0 +1,425 @@
+COMPLETED RACES LOG
+================================================================================
+Timestamp: 2025-11-01T12:15:37.027Z
+Total Racetracks: 15
+================================================================================
+
+Total Races: 104
+
+
+[1] RACETRACK: Flemington
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/flemington/race-1-9785667
+Total Races: 9
+
+  R1. Result: 9,5,6
+     Link: /horse-racing/australia-nz/flemington/race-1-9785667
+
+  R2. Result: 4,9,1
+     Link: /horse-racing/australia-nz/flemington/race-2-9785670
+
+  R3. Result: 5,9,2
+     Link: /horse-racing/australia-nz/flemington/race-3-9785669
+
+  R4. Result: 1,5,8
+     Link: /horse-racing/australia-nz/flemington/race-4-9785672
+
+  R5. Result: 6,4,12
+     Link: /horse-racing/australia-nz/flemington/race-5-9785671
+
+  R6. Result: 3,12,9
+     Link: /horse-racing/australia-nz/flemington/race-6-9785668
+
+  R7. Result: 1,8,16
+     Link: /horse-racing/australia-nz/flemington/race-7-9785673
+
+  R8. Result: 1,6,11
+     Link: /horse-racing/australia-nz/flemington/race-8-9785666
+
+  R9. Result: 10,14,2
+     Link: /horse-racing/australia-nz/flemington/race-9-9785675
+
+
+[2] RACETRACK: Randwick
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/randwick/race-1-9785602
+Total Races: 10
+
+  R1. Result: 3,4,1
+     Link: /horse-racing/australia-nz/randwick/race-1-9785602
+
+  R2. Result: 5,7,2
+     Link: /horse-racing/australia-nz/randwick/race-2-9785596
+
+  R3. Result: 9,8,10
+     Link: /horse-racing/australia-nz/randwick/race-3-9785600
+
+  R4. Result: 9,1,20
+     Link: /horse-racing/australia-nz/randwick/race-4-9785597
+
+  R5. Result: 6,1,12
+     Link: /horse-racing/australia-nz/randwick/race-5-9785598
+
+  R6. Result: 11,1,4
+     Link: /horse-racing/australia-nz/randwick/race-6-9785599
+
+  R7. Result: 2,12,13
+     Link: /horse-racing/australia-nz/randwick/race-7-9785601
+
+  R8. Result: 14,4,1
+     Link: /horse-racing/australia-nz/randwick/race-8-9785611
+
+  R9. Result: 6,10,8
+     Link: /horse-racing/australia-nz/randwick/race-9-9785612
+
+  R10. Result: 11,5,12
+     Link: /horse-racing/australia-nz/randwick/race-10-9785613
+
+
+[3] RACETRACK: Eagle Farm
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/eagle-farm/race-1-9785883
+Total Races: 4
+
+  R1. Result: 1,5,7
+     Link: /horse-racing/australia-nz/eagle-farm/race-1-9785883
+
+  R2. Result: 5,6,4
+     Link: /horse-racing/australia-nz/eagle-farm/race-2-9785880
+
+  R3. Result: 10,6,4
+     Link: /horse-racing/australia-nz/eagle-farm/race-3-9785884
+
+  R4. Result: 3,14,11
+     Link: /horse-racing/australia-nz/eagle-farm/race-4-9785877
+
+
+[4] RACETRACK: Morphettville
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/morphettville/race-1-9785524
+Total Races: 10
+
+  R1. Result: 4,1,2
+     Link: /horse-racing/australia-nz/morphettville/race-1-9785524
+
+  R2. Result: 7,6,2
+     Link: /horse-racing/australia-nz/morphettville/race-2-9785526
+
+  R3. Result: 4,3,8
+     Link: /horse-racing/australia-nz/morphettville/race-3-9785523
+
+  R4. Result: 9,4,7
+     Link: /horse-racing/australia-nz/morphettville/race-4-9785522
+
+  R5. Result: 9,6,7
+     Link: /horse-racing/australia-nz/morphettville/race-5-9785531
+
+  R6. Result: 2,7,1
+     Link: /horse-racing/australia-nz/morphettville/race-6-9785528
+
+  R7. Result: 6,14,3
+     Link: /horse-racing/australia-nz/morphettville/race-7-9785530
+
+  R8. Result: 1,7,6
+     Link: /horse-racing/australia-nz/morphettville/race-8-9785525
+
+  R9. Result: 9,3,8
+     Link: /horse-racing/australia-nz/morphettville/race-9-9785529
+
+  R10. Result: 11,5,4
+     Link: /horse-racing/australia-nz/morphettville/race-10-9785527
+
+
+[5] RACETRACK: Ascot
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/ascot/race-1-9786117
+Total Races: 10
+
+  R1. Result: 5,4,2
+     Link: /horse-racing/australia-nz/ascot/race-1-9786117
+
+  R2. Result: 5,2,6
+     Link: /horse-racing/australia-nz/ascot/race-2-9786122
+
+  R3. Result: 4,3,5
+     Link: /horse-racing/australia-nz/ascot/race-3-9786123
+
+  R4. Result: 8,11,3
+     Link: /horse-racing/australia-nz/ascot/race-4-9786124
+
+  R5. Result: 7,6,8
+     Link: /horse-racing/australia-nz/ascot/race-5-9786121
+
+  R6. Result: 1,2,5
+     Link: /horse-racing/australia-nz/ascot/race-6-9786120
+
+  R7. Result: 4,1,7
+     Link: /horse-racing/australia-nz/ascot/race-7-9786119
+
+  R8. Result: 9,6,1
+     Link: /horse-racing/australia-nz/ascot/race-8-9786116
+
+  R9. Result: 5,1,7
+     Link: /horse-racing/australia-nz/ascot/race-9-9786125
+
+  R10. Result: 7,8,6
+     Link: /horse-racing/australia-nz/ascot/race-10-9786118
+
+
+[6] RACETRACK: Mortlake
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/mortlake/race-1-9789476
+Total Races: 7
+
+  R1. Result: 2,1,5
+     Link: /horse-racing/australia-nz/mortlake/race-1-9789476
+
+  R2. Result: 8,2,1
+     Link: /horse-racing/australia-nz/mortlake/race-2-9789477
+
+  R3. Result: 6,3,9
+     Link: /horse-racing/australia-nz/mortlake/race-3-9789478
+
+  R4. Result: 1,4,5
+     Link: /horse-racing/australia-nz/mortlake/race-4-9789475
+
+  R5. Result: 10,7,5
+     Link: /horse-racing/australia-nz/mortlake/race-5-9789472
+
+  R6. Result: 3,10,7
+     Link: /horse-racing/australia-nz/mortlake/race-6-9789473
+
+  R7. Result: 2,1,8
+     Link: /horse-racing/australia-nz/mortlake/race-7-9789474
+
+
+[7] RACETRACK: Traralgon
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/traralgon/race-1-9789359
+Total Races: 7
+
+  R1. Result: 4,9,10
+     Link: /horse-racing/australia-nz/traralgon/race-1-9789359
+
+  R2. Result: 10,2,8
+     Link: /horse-racing/australia-nz/traralgon/race-2-9789360
+
+  R3. Result: 1,7,11
+     Link: /horse-racing/australia-nz/traralgon/race-3-9789362
+
+  R4. Result: 3,7,8
+     Link: /horse-racing/australia-nz/traralgon/race-4-9789363
+
+  R5. Result: 4,5,9
+     Link: /horse-racing/australia-nz/traralgon/race-5-9789361
+
+  R6. Result: 6,3,1
+     Link: /horse-racing/australia-nz/traralgon/race-6-9789364
+
+  R7. Result: 3,10,1
+     Link: /horse-racing/australia-nz/traralgon/race-7-9789358
+
+
+[8] RACETRACK: Newcastle
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/newcastle/race-1-9789517
+Total Races: 7
+
+  R1. Result: 5,1,4
+     Link: /horse-racing/australia-nz/newcastle/race-1-9789517
+
+  R2. Result: 10,3,7
+     Link: /horse-racing/australia-nz/newcastle/race-2-9789518
+
+  R3. Result: 1,3,5
+     Link: /horse-racing/australia-nz/newcastle/race-3-9789519
+
+  R4. Result: 4,3,1
+     Link: /horse-racing/australia-nz/newcastle/race-4-9789520
+
+  R5. Result: 2,3,1
+     Link: /horse-racing/australia-nz/newcastle/race-5-9789514
+
+  R6. Result: 8,1,6
+     Link: /horse-racing/australia-nz/newcastle/race-6-9789515
+
+  R7. Result: 9,1,8
+     Link: /horse-racing/australia-nz/newcastle/race-7-9789516
+
+
+[9] RACETRACK: Dubbo
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/dubbo/race-1-9789440
+Total Races: 7
+
+  R1. Result: 3,4,2
+     Link: /horse-racing/australia-nz/dubbo/race-1-9789440
+
+  R2. Result: 2,1,11
+     Link: /horse-racing/australia-nz/dubbo/race-2-9789441
+
+  R3. Result: 4,5,10
+     Link: /horse-racing/australia-nz/dubbo/race-3-9789442
+
+  R4. Result: 5,8,10
+     Link: /horse-racing/australia-nz/dubbo/race-4-9789444
+
+  R5. Result: 2,4,1
+     Link: /horse-racing/australia-nz/dubbo/race-5-9789443
+
+  R6. Result: 5,10,8
+     Link: /horse-racing/australia-nz/dubbo/race-6-9789438
+
+  R7. Result: 1,4,2
+     Link: /horse-racing/australia-nz/dubbo/race-7-9789439
+
+
+[10] RACETRACK: Coffs Harbour
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/coffs-harbour/race-1-9789303
+Total Races: 6
+
+  R1. Result: 3,2,1
+     Link: /horse-racing/australia-nz/coffs-harbour/race-1-9789303
+
+  R2. Result: 8,2,1
+     Link: /horse-racing/australia-nz/coffs-harbour/race-2-9789304
+
+  R3. Result: 7,8,6
+     Link: /horse-racing/australia-nz/coffs-harbour/race-3-9789307
+
+  R4. Result: 2,7,1
+     Link: /horse-racing/australia-nz/coffs-harbour/race-4-9789305
+
+  R5. Result: 5,2,12
+     Link: /horse-racing/australia-nz/coffs-harbour/race-5-9789306
+
+  R6. Result: 6,8,4
+     Link: /horse-racing/australia-nz/coffs-harbour/race-6-9789302
+
+
+[11] RACETRACK: Gold Coast
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/gold-coast/race-1-9789483
+Total Races: 8
+
+  R1. Result: 8,2,12
+     Link: /horse-racing/australia-nz/gold-coast/race-1-9789483
+
+  R2. Result: 9,13,2
+     Link: /horse-racing/australia-nz/gold-coast/race-2-9789486
+
+  R3. Result: 14,12,2
+     Link: /horse-racing/australia-nz/gold-coast/race-3-9789487
+
+  R4. Result: 6,2,8
+     Link: /horse-racing/australia-nz/gold-coast/race-4-9789482
+
+  R5. Result: 3,5,6
+     Link: /horse-racing/australia-nz/gold-coast/race-5-9789480
+
+  R6. Result: 7,2,4
+     Link: /horse-racing/australia-nz/gold-coast/race-6-9789481
+
+  R7. Result: 2,5,4
+     Link: /horse-racing/australia-nz/gold-coast/race-7-9789484
+
+  R8. Result: 14,1,6
+     Link: /horse-racing/australia-nz/gold-coast/race-8-9789485
+
+
+[12] RACETRACK: Dalby
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/dalby/race-1-9789801
+Total Races: 3
+
+  R1. Result: 7,16,12
+     Link: /horse-racing/australia-nz/dalby/race-1-9789801
+
+  R2. Result: 1,3,11
+     Link: /horse-racing/australia-nz/dalby/race-2-9789802
+
+  R3. Result: 3,5,4
+     Link: /horse-racing/australia-nz/dalby/race-3-9789803
+
+
+[13] RACETRACK: Toowoomba
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/toowoomba/race-1-9789459
+Total Races: 3
+
+  R1. Result: 9,5,11
+     Link: /horse-racing/australia-nz/toowoomba/race-1-9789459
+
+  R2. Result: 12,4,3
+     Link: /horse-racing/australia-nz/toowoomba/race-2-9789460
+
+  R3. Result: 5,8,2
+     Link: /horse-racing/australia-nz/toowoomba/race-3-9789454
+
+
+[14] RACETRACK: Wycheproof
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/wycheproof/race-1-9789594
+Total Races: 7
+
+  R1. Result: 3,1,8
+     Link: /horse-racing/australia-nz/wycheproof/race-1-9789594
+
+  R2. Result: 2,4,1
+     Link: /horse-racing/australia-nz/wycheproof/race-2-9789593
+
+  R3. Result: 9,5,1
+     Link: /horse-racing/australia-nz/wycheproof/race-3-9789595
+
+  R4. Result: 8,5,6
+     Link: /horse-racing/australia-nz/wycheproof/race-4-9789592
+
+  R5. Result: 4,2,6
+     Link: /horse-racing/australia-nz/wycheproof/race-5-9789596
+
+  R6. Result: 3,5,8
+     Link: /horse-racing/australia-nz/wycheproof/race-6-9789590
+
+  R7. Result: 3,6,7
+     Link: /horse-racing/australia-nz/wycheproof/race-7-9789591
+
+
+[15] RACETRACK: Alice Springs
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/alice-springs/race-1-9785807
+Total Races: 6
+
+  R1. Result: 3,1,4
+     Link: /horse-racing/australia-nz/alice-springs/race-1-9785807
+
+  R2. Result: 1,2,3
+     Link: /horse-racing/australia-nz/alice-springs/race-2-9785806
+
+  R3. Result: 3,2,4
+     Link: /horse-racing/australia-nz/alice-springs/race-3-9785808
+
+  R4. Result: 4,1,5
+     Link: /horse-racing/australia-nz/alice-springs/race-4-9785809
+
+  R5. Result: 1,6,3
+     Link: /horse-racing/australia-nz/alice-springs/race-5-9785810
+
+  R6. Result: 2,3,4
+     Link: /horse-racing/australia-nz/alice-springs/race-6-9785811
+

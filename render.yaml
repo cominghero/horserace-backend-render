@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: horse-racing-backend
+    runtime: node
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: PROXY_URL
+        fromEnvVar: PROXY_URL
+    healthCheckPath: /api/health

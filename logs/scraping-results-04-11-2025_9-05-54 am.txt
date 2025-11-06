@@ -1,0 +1,143 @@
+HORSE RACING SCRAPING RESULTS LOG
+======================================================================
+Timestamp: 2025-11-04T01:05:54.660Z
+Total Racetracks: 5
+Total Races Scraped: 8
+======================================================================
+
+
+[1] RACETRACK: Flemington
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/flemington
+Total Races: 2
+
+  R1. Result: 2,7,11 | Horses: 12
+     Link: /horse-racing/australia-nz/flemington/race-1-9793374
+     Horses:
+       - [1] #1 Knurl (Place: 3.60)
+       - [2] #2 Tornado Valley (Place: 2.00)
+       - [3] #3 Brazen Dechambeau (Place: 3.20)
+       - [4] #4 Carnevale (Place: 1.75)
+       - [5] #5 Diameter (Place: 2.60)
+       - [6] #6 Prince Of Portland (Place: 3.00)
+       - [7] #7 Tales Of Time (Place: 4.40)
+       - [8] #9 Daily Reward (Place: 3.40)
+       - [9] #10 Hellfire Jess (Place: 6.00)
+       - [10] #11 Luna Vega (Place: 3.00)
+       - [11] #12 Saluki (Place: 4.40)
+       - [12] #14 Spirit Of Nicconi (Place: 20.00)
+
+  R2. Result: 10,5,20 | Horses: 13
+     Link: /horse-racing/australia-nz/flemington/race-2-9793370
+     Horses:
+       - [1] #1 Flash Feeling (Place: 8.50)
+       - [2] #2 Lodbrok (Place: 5.00)
+       - [3] #3 Makdane (Place: 1.60)
+       - [4] #5 Pittsburgh Pirate (Place: 6.00)
+       - [5] #6 Fengarada (Place: 14.00)
+       - [6] #7 Brave Miss (Place: 2.60)
+       - [7] #8 Jaykayann (Place: 4.40)
+       - [8] #10 Party Crasher (Place: 1.90)
+       - [9] #14 Giggenbach (Place: 2.30)
+       - [10] #15 Sacrify (Place: 6.00)
+       - [11] #16 Oraqua (Place: 6.00)
+       - [12] #19 Quello Dorato (Place: 3.60)
+       - [13] #20 Ghetto Supastar (Place: 3.00)
+
+
+[2] RACETRACK: Randwick
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/randwick
+Total Races: 1
+
+  R1. Result: 3,4,11 | Horses: 8
+     Link: /horse-racing/australia-nz/randwick/race-1-9793390
+     Horses:
+       - [1] #3 Oceanfront (Place: 2.25)
+       - [2] #4 Natoya (Place: 1.30)
+       - [3] #6 Dr Evil (Place: 3.80)
+       - [4] #7 Philipsburg (Place: 1.95)
+       - [5] #8 Highborn Harry (Place: 2.25)
+       - [6] #11 Horizons (Place: 1.40)
+       - [7] #12 Stay Tuned (Place: 2.50)
+       - [8] #13 Miss Bariloche (Place: 9.50)
+
+
+[3] RACETRACK: Eagle Farm
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/eagle-farm
+Total Races: 2
+
+  R1. Result: 17,14,5 | Horses: 7
+     Link: /horse-racing/australia-nz/eagle-farm/race-1-9793398
+     Horses:
+       - [1] #2 Boomtime Now (Place: 6.00)
+       - [2] #5 Devine Squire (Place: 7.50)
+       - [3] #10 Lady Milan (Place: 1.60)
+       - [4] #13 Ratenotice (Place: 2.60)
+       - [5] #14 Extreme Taste (Place: 1.50)
+       - [6] #16 Barrelling (Place: 2.15)
+       - [7] #17 Lady Windermere (Place: 9.50)
+
+  R2. Result: 9,7,6 | Horses: 7
+     Link: /horse-racing/australia-nz/eagle-farm/race-2-9793399
+     Horses:
+       - [1] #1 Shows A Sign (Place: 5.50)
+       - [2] #3 Paleface Ringo (Place: 4.50)
+       - [3] #4 Mishani Ego (Place: 5.50)
+       - [4] #5 Thee Creek (Place: 3.10)
+       - [5] #6 Cabaletto (Place: 2.20)
+       - [6] #7 Moulin Miss (Place: 3.60)
+       - [7] #9 Balance The Books (Place: 1.17)
+
+
+[4] RACETRACK: Morphettville
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/morphettville
+Total Races: 1
+
+  R1. Result: 7,5,8 | Horses: 8
+     Link: /horse-racing/australia-nz/morphettville/race-1-9793299
+     Horses:
+       - [1] #2 Goldfields Grey (Place: 1.65)
+       - [2] #3 Mcleod (Place: 7.50)
+       - [3] #4 Naval Ensign (Place: 5.50)
+       - [4] #5 Paganini (Place: 1.30)
+       - [5] #6 Thavma (Place: 3.40)
+       - [6] #7 Youbeeforty (Place: 2.05)
+       - [7] #8 Golden Guru (Place: 1.07)
+       - [8] #11 Lai Flipper (Place: 4.20)
+
+
+[5] RACETRACK: Hobart
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/hobart
+Total Races: 2
+
+  R1. Result: 9,4,10 | Horses: 10
+     Link: /horse-racing/australia-nz/hobart/race-1-9793211
+     Horses:
+       - [1] #1 Cardiosphere (Place: 4.40)
+       - [2] #2 Mister Manihi (Place: 2.30)
+       - [3] #3 Ceeya Sunshine (Place: 2.20)
+       - [4] #4 Argyll Diamond (Place: 4.60)
+       - [5] #5 Gypsey Charm (Place: 3.50)
+       - [6] #6 Little River Lass (Place: 9.50)
+       - [7] #8 Smash 'N' Grab (Place: 2.10)
+       - [8] #9 Celestial Glow (Place: 1.65)
+       - [9] #10 Geegees Mercedes (Place: 1.80)
+       - [10] #12 Pacific Witness (Place: 2.60)
+
+  R2. Result: 7,5,2 | Horses: 9
+     Link: /horse-racing/australia-nz/hobart/race-2-9793209
+     Horses:
+       - [1] #1 Alpine Honey (Place: 3.10)
+       - [2] #2 I'm A Machine (Place: 2.05)
+       - [3] #3 Knights Reign (Place: 2.30)
+       - [4] #4 Oxy Bolt (Place: 4.00)
+       - [5] #5 Striding Bay (Place: 1.73)
+       - [6] #6 Arsenale (Place: 6.75)
+       - [7] #7 Eaglefurther (Place: 1.33)
+       - [8] #8 Sedna (Place: 2.15)
+       - [9] #9 Warriora (Place: 3.10)
+

@@ -1,0 +1,179 @@
+COMPLETED RACES LOG
+================================================================================
+Timestamp: 2025-11-02T12:10:22.210Z
+Total Racetracks: 6
+================================================================================
+
+Total Races: 43
+
+
+[1] RACETRACK: Mornington
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/mornington/race-1-9789580
+Total Races: 9
+
+  R1. Result: 5,4,7
+     Link: /horse-racing/australia-nz/mornington/race-1-9789580
+
+  R2. Result: 4,2,8
+     Link: /horse-racing/australia-nz/mornington/race-2-9789583
+
+  R3. Result: 1,5,10
+     Link: /horse-racing/australia-nz/mornington/race-3-9789577
+
+  R4. Result: 1,4,5
+     Link: /horse-racing/australia-nz/mornington/race-4-9789576
+
+  R5. Result: 4,8,1
+     Link: /horse-racing/australia-nz/mornington/race-5-9789582
+
+  R6. Result: 3,4,5
+     Link: /horse-racing/australia-nz/mornington/race-6-9789579
+
+  R7. Result: 3,4,1
+     Link: /horse-racing/australia-nz/mornington/race-7-9789578
+
+  R8. Result: 7,3,5
+     Link: /horse-racing/australia-nz/mornington/race-8-9789575
+
+  R9. Result: 2,6,4
+     Link: /horse-racing/australia-nz/mornington/race-9-9789581
+
+
+[2] RACETRACK: Nowra
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/nowra/race-1-9789431
+Total Races: 6
+
+  R1. Result: 1,3,7
+     Link: /horse-racing/australia-nz/nowra/race-1-9789431
+
+  R2. Result: 5,4,3
+     Link: /horse-racing/australia-nz/nowra/race-2-9789432
+
+  R3. Result: 1,6,8
+     Link: /horse-racing/australia-nz/nowra/race-3-9789427
+
+  R4. Result: 7,12,5
+     Link: /horse-racing/australia-nz/nowra/race-4-9789428
+
+  R5. Result: 3,2,4
+     Link: /horse-racing/australia-nz/nowra/race-5-9789429
+
+  R6. Result: 5,3,12
+     Link: /horse-racing/australia-nz/nowra/race-6-9789430
+
+
+[3] RACETRACK: Muswellbrook
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/muswellbrook/race-1-9789325
+Total Races: 7
+
+  R1. Result: 3,8,1
+     Link: /horse-racing/australia-nz/muswellbrook/race-1-9789325
+
+  R2. Result: 3,2,8
+     Link: /horse-racing/australia-nz/muswellbrook/race-2-9789321
+
+  R3. Result: 8,1,10
+     Link: /horse-racing/australia-nz/muswellbrook/race-3-9789326
+
+  R4. Result: 8,14,12
+     Link: /horse-racing/australia-nz/muswellbrook/race-4-9789322
+
+  R5. Result: 2,4,6
+     Link: /horse-racing/australia-nz/muswellbrook/race-5-9789323
+
+  R6. Result: 2,9,3
+     Link: /horse-racing/australia-nz/muswellbrook/race-6-9789327
+
+  R7. Result: 14,5,7
+     Link: /horse-racing/australia-nz/muswellbrook/race-7-9789324
+
+
+[4] RACETRACK: Cairns
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/cairns/race-1-9789734
+Total Races: 7
+
+  R1. Result: 4,1,3
+     Link: /horse-racing/australia-nz/cairns/race-1-9789734
+
+  R2. Result: 3,6,1
+     Link: /horse-racing/australia-nz/cairns/race-2-9789735
+
+  R3. Result: 8,2,4
+     Link: /horse-racing/australia-nz/cairns/race-3-9789733
+
+  R4. Result: 3,4,5
+     Link: /horse-racing/australia-nz/cairns/race-4-9789729
+
+  R5. Result: 2,5,8
+     Link: /horse-racing/australia-nz/cairns/race-5-9789730
+
+  R6. Result: 8,9,7
+     Link: /horse-racing/australia-nz/cairns/race-6-9789731
+
+  R7. Result: 11,5,3
+     Link: /horse-racing/australia-nz/cairns/race-7-9789732
+
+
+[5] RACETRACK: Naracoorte
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/naracoorte/race-1-9789344
+Total Races: 7
+
+  R1. Result: 7,5,4
+     Link: /horse-racing/australia-nz/naracoorte/race-1-9789344
+
+  R2. Result: 2,10,9
+     Link: /horse-racing/australia-nz/naracoorte/race-2-9789346
+
+  R3. Result: 5,4,7
+     Link: /horse-racing/australia-nz/naracoorte/race-3-9789345
+
+  R4. Result: 7,1,2
+     Link: /horse-racing/australia-nz/naracoorte/race-4-9789348
+
+  R5. Result: 7,3,4
+     Link: /horse-racing/australia-nz/naracoorte/race-5-9789347
+
+  R6. Result: 1,3,8
+     Link: /horse-racing/australia-nz/naracoorte/race-6-9789349
+
+  R7. Result: 6,9,2
+     Link: /horse-racing/australia-nz/naracoorte/race-7-9789353
+
+
+[6] RACETRACK: Albany
+--------------------------------------------------------------------------------
+Country: Australia
+Track URL: /horse-racing/australia-nz/albany/race-1-9789821
+Total Races: 7
+
+  R1. Result: 1,4,3
+     Link: /horse-racing/australia-nz/albany/race-1-9789821
+
+  R2. Result: 1,4,2
+     Link: /horse-racing/australia-nz/albany/race-2-9789822
+
+  R3. Result: 3,7,2
+     Link: /horse-racing/australia-nz/albany/race-3-9789818
+
+  R4. Result: 8,7,4
+     Link: /horse-racing/australia-nz/albany/race-4-9789819
+
+  R5. Result: 8,2,3
+     Link: /horse-racing/australia-nz/albany/race-5-9789820
+
+  R6. Result: 1,7,5
+     Link: /horse-racing/australia-nz/albany/race-6-9789823
+
+  R7. Result: 3,4,9
+     Link: /horse-racing/australia-nz/albany/race-7-9789824
+

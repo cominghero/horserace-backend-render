@@ -1,0 +1,85 @@
+HORSE RACING SCRAPING RESULTS LOG
+======================================================================
+Timestamp: 2025-11-03T03:38:02.082Z
+Total Racetracks: 4
+Total Races Scraped: 5
+======================================================================
+
+
+[1] RACETRACK: Ballarat
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/ballarat
+Total Races: 2
+
+  R1. Result: 3,2,7 | Horses: 5
+     Link: /horse-racing/australia-nz/ballarat/race-1-9793307
+     Horses:
+       - [1] #2 Regal Gent (Place: 1.10)
+       - [2] #3 Catalona (Place: 2.10)
+       - [3] #4 Faith In Zadar (Place: 3.30)
+       - [4] #7 Kamarooka (Place: 2.90)
+       - [5] #8 Motherduck (Place: 2.60)
+
+  R2. Result: 5,3,11 | Horses: 9
+     Link: /horse-racing/australia-nz/ballarat/race-2-9793308
+     Horses:
+       - [1] #1 Conjurer (Place: 11.25)
+       - [2] #2 Lyttelton (Place: 3.75)
+       - [3] #3 Nothin' Wong Here (Place: 1.10)
+       - [4] #4 Bush Etiquette (Place: 2.63)
+       - [5] #5 Divine Clementine (Place: 1.30)
+       - [6] #6 Don't Look Away (Place: 3.10)
+       - [7] #8 Kazza Joy (Place: 2.80)
+       - [8] #9 Streamelot (Place: 5.00)
+       - [9] #11 Valda Warrior (Place: 3.00)
+
+
+[2] RACETRACK: Ballina
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/ballina
+Total Races: 1
+
+  R1. Result: 5,6,8 | Horses: 7
+     Link: /horse-racing/australia-nz/ballina/race-1-9789383
+     Horses:
+       - [1] #1 Catch The Prize (Place: 4.40)
+       - [2] #3 Bucket List (Place: 1.45)
+       - [3] #4 General Gordon (Place: 2.20)
+       - [4] #5 Prestige Gundy (Place: 1.26)
+       - [5] #6 Stratton (Place: 6.00)
+       - [6] #7 Highland Harmony (Place: 51.00)
+       - [7] #8 Pressipitating (Place: 4.20)
+
+
+[3] RACETRACK: Rockhampton
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/rockhampton
+Total Races: 1
+
+  R1. Result: 4,6,2 | Horses: 6
+     Link: /horse-racing/australia-nz/rockhampton/race-1-9793215
+     Horses:
+       - [1] #1 Dulcet (Place: 9.00)
+       - [2] #2 One Thing Counts (Place: 1.70)
+       - [3] #3 Out Of Luck (Place: 1.25)
+       - [4] #4 Darling Clementine (Place: 1.95)
+       - [5] #6 Phantom Flight (Place: 5.50)
+       - [6] #7 Peaking Tom (Place: 3.75)
+
+
+[4] RACETRACK: Corowa
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/corowa
+Total Races: 1
+
+  R1. Result: 6,8,3 | Horses: 7
+     Link: /horse-racing/australia-nz/corowa/race-1-9789296
+     Horses:
+       - [1] #1 Commanding Shadow (Place: 4.33)
+       - [2] #2 Heart Balm (Place: 23.75)
+       - [3] #3 Launch Mode (Place: 2.30)
+       - [4] #4 The Sweeney (Place: 9.00)
+       - [5] #6 Neeson (Place: 1.05)
+       - [6] #7 Instigate (Place: 4.75)
+       - [7] #8 My Inspiration (Place: 2.10)
+

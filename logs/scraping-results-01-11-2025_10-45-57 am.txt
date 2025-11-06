@@ -1,0 +1,223 @@
+HORSE RACING SCRAPING RESULTS LOG
+======================================================================
+Timestamp: 2025-11-01T02:45:57.101Z
+Total Racetracks: 8
+Total Races Scraped: 14
+======================================================================
+
+
+[1] RACETRACK: Flemington
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/flemington
+Total Races: 2
+
+  R1. Result: 9,5,6 | Horses: 8
+     Link: /horse-racing/australia-nz/flemington/race-1-9785667
+     Horses:
+       - [1] #2 West Of Swindon (Place: 1.65)
+       - [2] #3 Prestige Ole (Place: 6.50)
+       - [3] #4 Call Da Vinci (Place: 1.90)
+       - [4] #5 Regal Award (Place: 1.14)
+       - [5] #6 Single Choice (Place: 4.40)
+       - [6] #7 Kilman (Place: 3.10)
+       - [7] #8 Triple Malt (Place: 4.60)
+       - [8] #9 Panova (Place: 1.45)
+
+  R2. Result: 4,9,1 | Horses: 12
+     Link: /horse-racing/australia-nz/flemington/race-2-9785670
+     Horses:
+       - [1] #1 Icarian Dream (Place: 3.75)
+       - [2] #2 Stardom (Place: 2.20)
+       - [3] #4 Sheza Alibi (Place: 1.20)
+       - [4] #5 Live (Place: 2.50)
+       - [5] #6 Chatterley (Place: 2.70)
+       - [6] #7 Lady Pankhurst (Place: 7.50)
+       - [7] #8 Ruska Roma (Place: 4.00)
+       - [8] #9 Teine Aulelei (Place: 2.10)
+       - [9] #10 Gisella (Place: 15.25)
+       - [10] #11 Amping Lass (Place: 8.25)
+       - [11] #12 Miss Revealing (Place: 3.60)
+       - [12] #13 M'lady Rose (Place: 4.33)
+
+
+[2] RACETRACK: Randwick
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/randwick
+Total Races: 2
+
+  R1. Result: 3,4,1 | Horses: 7
+     Link: /horse-racing/australia-nz/randwick/race-1-9785602
+     Horses:
+       - [1] #1 Belle Detelle (Place: 3.40)
+       - [2] #2 Isana (Place: 4.60)
+       - [3] #3 Rotagilla (Place: 1.85)
+       - [4] #4 Strawberry Impact (Place: 1.85)
+       - [5] #5 Chicama (Place: 2.05)
+       - [6] #7 Scalable (Place: 3.40)
+       - [7] #8 Placid Pearl (Place: 5.50)
+
+  R2. Result: 9,8,10 | Horses: 9
+     Link: /horse-racing/australia-nz/randwick/race-3-9785600
+     Horses:
+       - [1] #1 Husk (Place: 2.40)
+       - [2] #2 Yankee One (Place: 3.60)
+       - [3] #3 Editing (Place: 2.20)
+       - [4] #4 Jellicious (Place: 1.40)
+       - [5] #5 Rubi's Serve (Place: 2.05)
+       - [6] #7 Rapbidash (Place: 2.80)
+       - [7] #8 Transcend (Place: 1.40)
+       - [8] #9 Bravissima (Place: 6.50)
+       - [9] #10 Miss Emma (Place: 15.00)
+
+
+[3] RACETRACK: Eagle Farm
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/eagle-farm
+Total Races: 2
+
+  R1. Result: 1,5,7 | Horses: 6
+     Link: /horse-racing/australia-nz/eagle-farm/race-1-9785883
+     Horses:
+       - [1] #1 Rarotonga (Place: 1.35)
+       - [2] #2 Jethro (Place: 3.40)
+       - [3] #3 Yo Lev (Place: 9.00)
+       - [4] #5 Scartoon (Place: 2.00)
+       - [5] #6 Vanzadee (Place: 1.45)
+       - [6] #7 Leaves Of Lorien (Place: 7.00)
+
+  R2. Result: 5,6,4 | Horses: 6
+     Link: /horse-racing/australia-nz/eagle-farm/race-2-9785880
+     Horses:
+       - [1] #2 Negotiations (Place: 4.80)
+       - [2] #4 Ten Good Reasons (Place: 1.90)
+       - [3] #5 Hearts Are Better (Place: 1.40)
+       - [4] #6 Zoubaby (Place: 2.35)
+       - [5] #8 All Too Wild (Place: 4.00)
+       - [6] #9 Express Code (Place: 3.00)
+
+
+[4] RACETRACK: Morphettville
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/morphettville
+Total Races: 3
+
+  R1. Result: 4,1,2 | Horses: 7
+     Link: /horse-racing/australia-nz/morphettville/race-1-9785524
+     Horses:
+       - [1] #1 Yuri Royale (Place: 4.80)
+       - [2] #2 Staunch (Place: 2.70)
+       - [3] #3 Magnetic Edge (Place: 5.50)
+       - [4] #4 Guru Warrior (Place: 1.16)
+       - [5] #5 Talisay (Place: 2.15)
+       - [6] #6 King Of Wessex (Place: 2.70)
+       - [7] #7 Warrandyte Road (Place: 21.00)
+
+  R2. Result: 7,6,2 | Horses: 8
+     Link: /horse-racing/australia-nz/morphettville/race-2-9785526
+     Horses:
+       - [1] #1 Golden Horizon (Place: 1.45)
+       - [2] #2 Ground Control (Place: 1.35)
+       - [3] #3 Bootlegger (Place: 1.95)
+       - [4] #4 Mostly For Show (Place: 2.60)
+       - [5] #5 Smashing Lad (Place: 1.95)
+       - [6] #6 Dampen (Place: 3.50)
+       - [7] #7 Grinzinger Champ (Place: 2.80)
+       - [8] #8 Gazz (Place: 7.00)
+
+  R3. Result: 4,3,8 | Horses: 8
+     Link: /horse-racing/australia-nz/morphettville/race-3-9785523
+     Horses:
+       - [1] #1 Sir Now (Place: 1.85)
+       - [2] #2 Karavas (Place: 3.10)
+       - [3] #3 Perilous Fighter (Place: 2.45)
+       - [4] #4 Mt Niseko (Place: 1.85)
+       - [5] #5 Zebella (Place: 1.45)
+       - [6] #6 Super Alana (Place: 2.60)
+       - [7] #7 Starlite Valley (Place: 7.50)
+       - [8] #8 Clarence (Place: 1.70)
+
+
+[5] RACETRACK: Mortlake
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/mortlake
+Total Races: 1
+
+  R1. Result: 2,1,5 | Horses: 9
+     Link: /horse-racing/australia-nz/mortlake/race-1-9789476
+     Horses:
+       - [1] #1 Dad Bod (Place: 1.91)
+       - [2] #2 The Nephilim (Place: 1.30)
+       - [3] #5 Say It How It Is (Place: 2.00)
+       - [4] #6 She Means War (Place: 5.50)
+       - [5] #7 Something White (Place: 3.60)
+       - [6] #8 Arties A Star (Place: 2.70)
+       - [7] #10 Needlestick (Place: 1.20)
+       - [8] #11 Miss Kanimbla (Place: 6.25)
+       - [9] #12 Bon To Dance (Place: 10.00)
+
+
+[6] RACETRACK: Dubbo
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/dubbo
+Total Races: 1
+
+  R1. Result: 3,4,2 | Horses: 6
+     Link: /horse-racing/australia-nz/dubbo/race-1-9789440
+     Horses:
+       - [1] #1 Shadow Shot (Place: 3.00)
+       - [2] #2 It Is To Be (Place: 1.65)
+       - [3] #3 Final Impact (Place: 1.45)
+       - [4] #4 Pinot Nero (Place: 1.40)
+       - [5] #5 Cavorting (Place: 8.50)
+       - [6] #6 Cheeky Secrets (Place: 15.00)
+
+
+[7] RACETRACK: Gold Coast
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/gold-coast
+Total Races: 2
+
+  R1. Result: 8,2,12 | Horses: 8
+     Link: /horse-racing/australia-nz/gold-coast/race-1-9789483
+     Horses:
+       - [1] #1 Amazara (Place: 2.63)
+       - [2] #2 Paper Doll (Place: 1.67)
+       - [3] #6 Miss Highfalutin (Place: 1.33)
+       - [4] #7 My Charm (Place: 1.50)
+       - [5] #8 Star Venture (Place: 1.20)
+       - [6] #10 Boom Flyer (Place: 18.25)
+       - [7] #11 Tamieka Warrior (Place: 11.50)
+       - [8] #12 Video Vixen (Place: 3.60)
+
+  R2. Result: 9,13,2 | Horses: 10
+     Link: /horse-racing/australia-nz/gold-coast/race-2-9789486
+     Horses:
+       - [1] #1 Best Eagle (Place: 1.90)
+       - [2] #2 Betta Than Presley (Place: 2.35)
+       - [3] #3 Champagne Sunset (Place: 1.80)
+       - [4] #6 Global (Place: 6.00)
+       - [5] #7 Ninjask (Place: 1.60)
+       - [6] #9 Antilles Gold (Place: 3.90)
+       - [7] #10 Far Beyond (Place: 6.00)
+       - [8] #11 Lucky Artie (Place: 1.50)
+       - [9] #13 Halfachance (Place: 5.00)
+       - [10] #15 Black Assassin (Place: 5.00)
+
+
+[8] RACETRACK: Wycheproof
+----------------------------------------------------------------------
+Track URL: /horse-racing/australia-nz/wycheproof
+Total Races: 1
+
+  R1. Result: 3,1,8 | Horses: 8
+     Link: /horse-racing/australia-nz/wycheproof/race-1-9789594
+     Horses:
+       - [1] #1 Renege (Place: 2.40)
+       - [2] #2 Wheat King (Place: 3.75)
+       - [3] #3 Durham Legacy (Place: 1.10)
+       - [4] #4 My Boy Lollipop (Place: 1.95)
+       - [5] #5 Echuca Moama (Place: 1.91)
+       - [6] #7 Girl's Got Class (Place: 2.00)
+       - [7] #8 Manhattan Darling (Place: 3.10)
+       - [8] #9 Wyman Lake (Place: 4.50)
+
