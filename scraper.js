@@ -2,8 +2,8 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
-const HttpProxyAgent = require('http-proxy-agent');
-const HttpsProxyAgent = require('https-proxy-agent');
+const { HttpProxyAgent } = require('http-proxy-agent');
+const { HttpsProxyAgent } = require('https-proxy-agent');
 
 const SPORTSBET_URL = 'https://www.sportsbet.com.au/racing-schedule/horse/today';
 const LOGS_DIR = path.join(__dirname, 'logs');
