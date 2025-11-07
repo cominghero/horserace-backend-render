@@ -13,7 +13,9 @@ const PROXY_PORT = process.env.PROXY_PORT || '3128';
 const PROXY_URL = `http://${PROXY_IP}:${PROXY_PORT}`;
 
 const httpAgent = new HttpProxyAgent(PROXY_URL);
-const httpsAgent = new HttpsProxyAgent(PROXY_URL);
+const httpsAgent = new HttpsProxyAgent(PROXY_URL, {
+  rejectUnauthorized: false
+});
 
 /**
  * Fetch HTML content using native fetch
