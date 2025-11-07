@@ -2,17 +2,9 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
-const https = require('https');
-
-// __dirname is built-in for CommonJS modules
 
 const SPORTSBET_URL = 'https://www.sportsbet.com.au/racing-schedule/horse/today';
 const LOGS_DIR = path.join(__dirname, 'logs');
-
-const httpsAgent = new https.Agent({
-  rejectUnauthorized: false,
-  minVersion: 'TLSv1'
-});
 
 /**
  * Fetch HTML content using native fetch
@@ -34,8 +26,7 @@ async function fetchHTML(url, retries = 2) {
       const response = await axios.get(url, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        },
-        httpsAgent: httpsAgent
+        }
       });
 
       return response.data;
