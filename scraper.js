@@ -2,9 +2,18 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
+const HttpProxyAgent = require('http-proxy-agent');
+const HttpsProxyAgent = require('https-proxy-agent');
 
 const SPORTSBET_URL = 'https://www.sportsbet.com.au/racing-schedule/horse/today';
 const LOGS_DIR = path.join(__dirname, 'logs');
+
+const PROXY_IP = process.env.PROXY_IP || '54.79.7.182';
+const PROXY_PORT = process.env.PROXY_PORT || '3128';
+const PROXY_URL = `http://${PROXY_IP}:${PROXY_PORT}`;
+
+const httpAgent = new HttpProxyAgent(PROXY_URL);
+const httpsAgent = new HttpsProxyAgent(PROXY_URL);
 
 /**
  * Fetch HTML content using native fetch
@@ -24,6 +33,8 @@ async function fetchHTML(url, retries = 2) {
       }
 
       const response = await axios.get(url, {
+        httpAgent: httpAgent,
+        httpsAgent: httpsAgent,
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
