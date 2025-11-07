@@ -1,0 +1,15 @@
+Error: Request failed with status code 407
+
+Stack:
+AxiosError: Request failed with status code 407
+    at settle (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\node_modules\axios\dist\node\axios.cjs:2097:12)
+    at IncomingMessage.handleStreamEnd (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\node_modules\axios\dist\node\axios.cjs:3305:11)
+    at IncomingMessage.emit (node:events:529:35)
+    at endReadableNT (node:internal/streams/readable:1400:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\node_modules\axios\dist\node\axios.cjs:4483:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async fetchHTML (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\scraper.js:54:24)
+    at async scrapeUpcomingRaces (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\scraper.js:1055:18)
+    at async scrapeAllUpcomingRacesWithCards (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\scraper.js:1216:24)
+    at async ScraperQueue.process (E:\My Workspace\Freelancer\horseRacing2\horseraceBackend\scraper-queue.js:51:24)

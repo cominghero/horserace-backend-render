@@ -1,21 +1,31 @@
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 const { HttpProxyAgent } = require('http-proxy-agent');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 
 const SPORTSBET_URL = 'https://www.sportsbet.com.au/racing-schedule/horse/today';
 const LOGS_DIR = path.join(__dirname, 'logs');
 
-const PROXY_IP = process.env.PROXY_IP || '54.79.7.182';
-const PROXY_PORT = process.env.PROXY_PORT || '3128';
-const PROXY_URL = `http://${PROXY_IP}:${PROXY_PORT}`;
+const PROXY_IP = process.env.PROXY_IP;
+const PROXY_PORT = process.env.PROXY_PORT;
+const PROXY_USERNAME = process.env.PROXY_USERNAME;
+const PROXY_PASSWORD = process.env.PROXY_PASSWORD;
+const USE_PROXY = PROXY_IP && PROXY_PORT;
+const PROXY_URL = USE_PROXY ? (PROXY_USERNAME && PROXY_PASSWORD ? `http://${PROXY_USERNAME}:${PROXY_PASSWORD}@${PROXY_IP}:${PROXY_PORT}` : `http://${PROXY_IP}:${PROXY_PORT}`) : null;
 
-const httpAgent = new HttpProxyAgent(PROXY_URL);
-const httpsAgent = new HttpsProxyAgent(PROXY_URL, {
-  rejectUnauthorized: false
-});
+const httpAgent = USE_PROXY ? new HttpProxyAgent(PROXY_URL) : undefined;
+const httpsAgent = USE_PROXY ? new HttpsProxyAgent(PROXY_URL) : undefined;
+
+if (USE_PROXY) {
+  console.log(`✅ Using proxy: ${PROXY_URL}`);
+} else {
+  console.log(`⚠️  Direct connection (no proxy)`);
+}
 
 /**
  * Fetch HTML content using native fetch
@@ -34,13 +44,16 @@ async function fetchHTML(url, retries = 2) {
         await new Promise(resolve => setTimeout(resolve, 1000 * attempt));
       }
 
-      const response = await axios.get(url, {
-        httpAgent: httpAgent,
-        httpsAgent: httpsAgent,
+      const config = {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
-      });
+      };
+      if (USE_PROXY) {
+        config.httpAgent = httpAgent;
+        config.httpsAgent = httpsAgent;
+      }
+      const response = await axios.get(url, config);
 
       return response.data;
 
@@ -329,11 +342,16 @@ async function scrapeRaceCardByUrl(raceUrl) {
       : `https://www.sportsbet.com.au${raceUrl}`;
 
     // Use simple axios fetch - race card data is in HTML, no JS rendering needed
-    const response = await axios.get(fullUrl, {
+    const raceCardConfig = {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
       }
-    });
+    };
+    if (USE_PROXY) {
+      raceCardConfig.httpAgent = httpAgent;
+      raceCardConfig.httpsAgent = httpsAgent;
+    }
+    const response = await axios.get(fullUrl, raceCardConfig);
     const html = response.data;
 
     const $ = cheerio.load(html);
@@ -503,11 +521,16 @@ async function extractRaceDateFromUrl(raceUrl) {
       ? raceUrl 
       : `https://www.sportsbet.com.au${raceUrl}`;
     
-    const response = await axios.get(fullUrl, {
+    const resultsConfig = {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
       }
-    });
+    };
+    if (USE_PROXY) {
+      resultsConfig.httpAgent = httpAgent;
+      resultsConfig.httpsAgent = httpsAgent;
+    }
+    const response = await axios.get(fullUrl, resultsConfig);
 
     const $ = cheerio.load(response.data);
     
@@ -699,11 +722,16 @@ async function extractWinnerFromRaceLink(raceLink) {
       : `https://www.sportsbet.com.au${raceLink}`;
 
     // Use simple axios fetch - results page data is in HTML
-    const response = await axios.get(fullUrl, {
+    const winnerConfig = {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
       }
-    });
+    };
+    if (USE_PROXY) {
+      winnerConfig.httpAgent = httpAgent;
+      winnerConfig.httpsAgent = httpsAgent;
+    }
+    const response = await axios.get(fullUrl, winnerConfig);
     const html = response.data;
     const $ = cheerio.load(html);
 
@@ -1032,6 +1060,13 @@ async function scrapeUpcomingRaces(scheduleUrl = 'today') {
     const debugLogPath = path.join(LOGS_DIR, `debug-upcoming-${scheduleUrl}.html`);
     fs.writeFileSync(debugLogPath, html);
     console.log(`📝 HTML saved to: ${debugLogPath}`);
+
+    // Check if response is valid
+    if (!html || html.includes('REQUEST_TIME') || html.includes('REMOTE_PORT') || html.length < 1000) {
+      console.error('❌ Invalid response from proxy - likely error page or cache');
+      console.error('   Response preview:', html.substring(0, 200));
+      return [];
+    }
 
     const $ = cheerio.load(html);
     
